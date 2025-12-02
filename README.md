@@ -1,4 +1,4 @@
-# Advanced-React---useReducer-Hook React Quiz
+# Advanced-React---useReducer-Hook
 
 ## Overview
 **Project**
